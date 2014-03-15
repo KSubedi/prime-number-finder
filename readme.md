@@ -11,14 +11,14 @@ to my surprise, Java performed faster than CPP. And PHP was far behind, when Jav
 To run these:
 
 PHP:
-    php PrimeNumbers.php
+php PrimeNumbers.php
 
 Java:
-    javac PrimeNumbers.php
-    java PrimeNumbers
+javac PrimeNumbers.php
+java PrimeNumbers
 
 C++:
-    g++ PrimeNumbers.cpp
-    ./a.out
+g++ PrimeNumbers.cpp
+./a.out
 
 Please note that I made these just for testing, so code isn't commented and needs cleaning. 
